@@ -1,7 +1,10 @@
 # Name: Symptom Checker
 
 
-## Technologies Used: HTML/CSS/JavaScript/jQuery
+## Technologies Used
+ **HTML**
+ **CSS**
+ **JavaScript**(*jQuery*)
 
 ## Purpose:
 
