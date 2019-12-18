@@ -4,13 +4,13 @@
 ## Technologies Used
  **HTML**
  **CSS**
- **JavaScript**(*jQuery*)
+ **JavaScript** (*jQuery*)
 
-## Purpose:
+## Purpose
 
 Users can add information about health issues and get possible health conditions
 
-## Motivation:
+## Motivation
 
 As a new parent, I am often bombarded with some sort of health issue or another. With the addition of managing a busy schedule, it is often hard to visit a doctor right away, so the idea for creating a symptom checker that allows for a quick diagnosis came about. It is helpful to get a sense of what condition I might have in a quick and timely manner before discussing my symptoms with my primary doctor.
 
